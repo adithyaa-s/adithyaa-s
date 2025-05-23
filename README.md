@@ -78,6 +78,12 @@
   <a href="https://www.linkedin.com/in/adithyaa-saravanam/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+  <a href="https://leetcode.com/u/adithyaa_1/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA11D&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="leetcode logo"  />
+  </a>
+  <a href="https://www.codechef.com/users/adithyaa_1" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=CodeChef&logo=codechef&label=&color=FF5117&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codechef logo"  />
+  </a>
 </div>
 
 ###
