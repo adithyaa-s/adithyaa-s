@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="155" src="/monkey.gif"  />
+<img align="right" height="155" src="/monkey.gif" />
 
 
 ###
